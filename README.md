@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Project 0 - Racing Game
 
-<img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width=600>
+<img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width=500>
 
 Over the next 5 days we would like you to build a Racing Game using your newfound powers as a stylish, jQuery-slinging, frontend developer. We want you to build not 1, not 2, but 3 different versions of your game (it's not as crazy as it sounds).
 
@@ -15,7 +15,7 @@ Please Fork & Clone this repo and use it as your starting point.
 
 **You must push your project to Github**, and we encourage you to also host it either using either <a href="https://pages.github.com" target="_blank">Github Pages</a> or <a href="https://www.bitballoon.com" target="_blank">BitBalloon</a>.
 
-You will receive **written instructor feedback** on this project. See the [feedback doc](feedback.md) for details.
+**You will receive written instructor feedback** on this project. See the [feedback doc](feedback.md) for details.
 
 #### Minimum Viable Product
 **A user should be able to...**
@@ -41,7 +41,7 @@ Feel free to come up with your own bonus ideas & use your creativity. These are 
 * Keep track of **multiple game rounds** with a win counter / leader board.
 * Allow **player customization** (e.g. pick a name/symbol/color/avatar).
 * Use <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage" target="_blank">localStorage</a> to **keep track of game state**, even if the user refreshes the page.
-* Get creative with **inventive styling**, e.g. use hover effects or css animations/transforms to spiff things up. Get creative with backgrounds.
+* Get creative with **inventive styling** (e.g. use css animations/transforms and hover effects, get creative with backgrounds).
 * Display a **countdown timer** ("3, 2, 1, Go!"), the winning time, or the best time.
 * **Race against a bot**.
 * **Instant replay**: record yourself and then race against yourself, in real-time.
