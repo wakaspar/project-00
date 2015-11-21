@@ -17,7 +17,7 @@ Please Fork & Clone this repo and use it as your starting point.
 
 **You will receive written instructor feedback** on this project. See the [feedback doc](feedback.md) for details.
 
-#### Minimum Viable Product
+### Minimum Viable Product
 **A user should be able to...**
 
 * See a beautiful **game board** on the page
@@ -28,11 +28,11 @@ Please Fork & Clone this repo and use it as your starting point.
 
 Please also attempt at least one bonus feature (or come up with your own!).
 
-#### File Structure
+### File Structure
 * Please create a seperate folder for each of your games: `game-1`, `game-2`, `mad-scientist-game-3`. Remember, you're going to attempt to build three different racing games!
 * You'll need an `index.html`, `main.css`, and `main.js`. Make sure your stylesheet and JavaScript files are linked in `index.html` (sanity check them!), and also include the CDNs you'll be using (e.g. Bootstrap, jQuery).
 
-### Bonuses
+## Bonuses
 You must complete all **core** requirements before moving on to bonuses.
 
 Feel free to come up with your own bonus ideas & use your creativity. These are a few interesting challenges to stretch you:
@@ -47,7 +47,7 @@ Feel free to come up with your own bonus ideas & use your creativity. These are 
 * **Instant replay**: record yourself and then race against yourself, in real-time.
 * Integrate with a **3rd party API**: flickr, youtube, spotify, giphy, etc.
 
-### Best Practices
+## Best Practices
 * Use **jQuery**
 * Take very small steps
 * **Wireframe** your page layout, and **whiteboard** the different components of your app (data, view/presentation logic, control logic, styles)
