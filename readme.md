@@ -2,14 +2,15 @@
 
 <img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width=600>
 
-* **Assigned:** Tuesday, Nov 24th
-* **Due:** Monday, Nov 30th @ 9:17am
-
 Over the next 5 days we would like you to build a Racing Game using your newfound powers as a stylish, jQuery-slinging, frontend developer. We want you to build not 1, not 2, but 3 different versions of your game (it's not as crazy as it sounds).
 
 Please Fork & Clone this repo and use it as your starting point.
 
 ## Guidelines
+
+* **Assigned:** Tuesday, Nov 24th
+* **Due:** Monday, Nov 30th @ 9:17am
+
 **You will be working individually for this project**, but we encourage you to get help from your peers and even pair-program on each other's projects when bugs arise.
 
 **You must push your project to Github**, and we encourage you to also host it either using either <a href="https://pages.github.com" target="_blank">Github Pages</a> or <a href="https://www.bitballoon.com" target="_blank">BitBalloon</a>.
@@ -46,9 +47,7 @@ Feel free to come up with your own bonus ideas & use your creativity. These are 
 * **Instant replay**: record yourself and then race against yourself, in real-time.
 * Integrate with a **3rd party API**: flickr, youtube, spotify, giphy, etc.
 
-### Recommendations
-
-#### Helpful Tips / Best Practices
+### Best Practices
 * Use **jQuery**
 * Take very small steps
 * **Wireframe** your page layout, and **whiteboard** the different components of your app (data, view/presentation logic, control logic, styles)
