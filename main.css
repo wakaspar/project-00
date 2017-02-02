@@ -1,0 +1,25 @@
+h1 {
+  color: grey;
+}
+
+#p1 {
+  color: red;
+  font-weight: bolder;
+  text-align: left;
+}
+
+div {
+  background: black;
+}
+
+#track {
+  height:100px;
+  width:auto;
+  background: darkgrey;
+}
+
+#p2 {
+  color: green;
+  font-weight: bolder;
+  text-align: right;
+}
